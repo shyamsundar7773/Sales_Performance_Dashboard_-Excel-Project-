@@ -109,7 +109,6 @@ Provides complete project summary including:
 
 ![Dashboard Preview](excel_dashboard.png)
 
-> Upload your dashboard screenshot into the GitHub repository and rename it as `dashboard.png`
 
 ---
 
